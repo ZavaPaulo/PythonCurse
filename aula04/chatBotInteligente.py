@@ -1,0 +1,1 @@
+# Trabalhar com o chat bot em casa, pois necessita da criação de um ambiente virtual e o uso de websites bloqueados pela UniFil Computação
